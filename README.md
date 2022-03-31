@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrakJang
-- 👀 I’m interested in Statistic, Ancient China, Taoism. 
+- 👀 I’m interested in Statistics, Ancient China, Taoism. 
 - 🌱 I’m currently learning Statistic and Computer Science. 
 <!---
 - 💞️ I’m looking to collaborate on ...
